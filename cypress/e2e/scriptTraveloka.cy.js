@@ -1,4 +1,4 @@
-describe ("Login page test cases", () => {
+describe ("Traveloka test cases", () => {
     it("Flow traveloka action", () => {
         cy.visit("https://www.traveloka.com/en-id");
         cy.wait(4000);
